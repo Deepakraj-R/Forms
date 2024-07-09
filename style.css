@@ -1,0 +1,46 @@
+body{
+    background-image: url("https://wallpapers.com/images/hd/macro-flower-with-purple-butterfly-k941qkkh2dqgzeb5.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    text-align: center;
+}
+div{
+    background-color:rgb(91, 86, 155); 
+    border-radius: 5px;
+    width: 25%;
+    padding: 80px;
+    margin-left: 12%;
+    font-weight: bold;
+}
+
+
+input[type=text], input[type=email], input[type=password],select{
+    display: block;
+    width: 100%;
+    padding: 10px;
+    margin: 8px;
+    border: 2px solid rgb(189, 4, 189);
+    font: weight 1300px;
+    font-family:'Times New Roman', Times, serif ;
+}
+button{
+    background-color: rgb(189, 4, 189);
+    color: white;
+    border: 1px solid black;
+    border-radius: 5px;
+    font-size: large;
+    padding: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+lable{  
+    font-size: large;
+    display: block;
+    float: left;
+    font-weight: 700;
+}
+input[type=radio],input[type=checkbox]{
+    margin: 8px;
+}
